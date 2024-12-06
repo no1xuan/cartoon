@@ -1,0 +1,11 @@
+Flask==2.3.2
+gradio==5.7.1
+joblib==1.4.2
+numpy==1.24.3
+opencv_python_headless==4.10.0.84
+scipy==1.14.1
+skimage==0.0
+tensorflow==2.13.0
+tensorflow_intel==2.13.0
+tf_slim==1.1.0
+tqdm==4.66.5
