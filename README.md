@@ -19,6 +19,7 @@ Python 版本：3.10.14
 1.宝塔创建项目
 <img src="./assets/1.png">
 
+
 2.需要绑定域名并开启外网映射
 <img src="./assets/2.png">
 
