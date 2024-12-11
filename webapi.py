@@ -59,7 +59,8 @@ def generate_cartoon():
 
         # 手动释放漫画图像内存
         del cartoon_image
-        gc.collect()  # 强制进行垃圾回收
+        # 强制进行垃圾回收
+        gc.collect()
 
         base64_with_header = f"data:{mime_type};base64,{cartoon_base64}"
 
